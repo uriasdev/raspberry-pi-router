@@ -26,3 +26,9 @@ NETGEAR GS305 Switch
 Wired Clients   TP-Link EAP650
                       |
                  Wi-Fi Clients
+
+## Documentation
+
+The complete project is documented as a practical lab guide covering the network architecture, configuration process, validation, troubleshooting, and performance testing.
+
+[View the full Raspberry Pi Router Lab Guide](documentation/Raspberry-Pi-Router-v1.0.pdf)
